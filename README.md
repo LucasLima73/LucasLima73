@@ -62,11 +62,6 @@ const lucas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLima73&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima73&layout=compact&langs_count=7&theme=dracula&border_radius=12"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=LucasLima73&theme=dracula&border_radius=12" alt="GitHub Streak"/>
 </div>
 
